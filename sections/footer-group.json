@@ -1,0 +1,57 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "c56ae3ae-0117-42ae-bf7e-630276032b40": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Navigation",
+            "menu": "footer"
+          }
+        },
+        "d352409b-1e74-4bd2-af9f-99a3485a1242": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Legal",
+            "menu": "legal"
+          }
+        },
+        "86835063-f7f6-4808-882e-89184d3999e9": {
+          "type": "text",
+          "settings": {
+            "heading": "Talk about a great business!",
+            "subtext": "<p>We be super  cool yo!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c56ae3ae-0117-42ae-bf7e-630276032b40",
+        "d352409b-1e74-4bd2-af9f-99a3485a1242",
+        "86835063-f7f6-4808-882e-89184d3999e9"
+      ],
+      "custom_css": [
+        ".footer-block--newsletter{justify-content: flex-end;}"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 36,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

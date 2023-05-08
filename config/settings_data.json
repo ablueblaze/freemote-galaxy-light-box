@@ -1,25 +1,25 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/galaxy_light_box_logo_3.svg",
-    "logo_width": 240,
+    "logo": "shopify:\/\/shop_images\/galaxy_light_box_logo_2.png",
+    "logo_width": 300,
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#334fb4",
+    "colors_accent_1": "#121212",
     "gradient_accent_1": "",
     "colors_accent_2": "#334fb4",
     "gradient_accent_2": "",
     "colors_text": "#121212",
-    "colors_outline_button_labels": "#334fb4",
+    "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
-    "type_header_font": "cabin_n4",
+    "type_header_font": "catamaran_n4",
     "heading_scale": 100,
-    "type_body_font": "cabin_n4",
+    "type_body_font": "assistant_n4",
     "body_scale": 100,
-    "page_width": 1000,
+    "page_width": 1200,
     "spacing_sections": 0,
-    "spacing_grid_horizontal": 4,
+    "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
@@ -110,9 +110,9 @@
     "brand_headline": "",
     "brand_description": "<p><\/p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/facebook.com\/shopify",
-    "social_instagram_link": "http:\/\/instagram.com\/shopify",
-    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/",
+    "social_instagram_link": "http:\/\/instagram.com\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
@@ -286,16 +286,5 @@
         }
       }
     }
-  },
-  "platform_customizations": {
-    "custom_css": [
-      "a.button.button--primary {background-color: #334fba !important; color: white; font-weight: bold; letter-spacing: 2px;}",
-      "a.button.button:after {box-shadow: none !important;}",
-      ".header--middle-left {grid-template-columns: auto;}",
-      ".title-wrapper-with-link {justify-content: center;}",
-      ".price-item.price-item--regular {margin: 0 0.4rem;}",
-      ".price.price--large.price--on-sale.price--show-badge {display: flex; justify-content: center; align-items: center;}",
-      ".badge.price__badge-sale.color-accent-2 {padding: 0.1rem 0.3rem; border-radius: 0;}"
-    ]
   }
 }
